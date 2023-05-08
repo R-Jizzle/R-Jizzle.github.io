@@ -13,7 +13,7 @@ var level01 = function (window) {
         // behavior of our game
         var levelData = [
             {
-            name: "Robot Romp",
+            name: "Robot Chomp",
               number: 1,
               speed: -3,
               gameItems: [
@@ -21,7 +21,7 @@ var level01 = function (window) {
               ],
             },
             {
-              name: "Robot Rampage",
+              name: "Robot Killer",
               number: 2,
               speed: -3,
               gameItems: [
@@ -32,7 +32,7 @@ var level01 = function (window) {
               ],
             },
             {
-                name: "Level Awesome",
+                name: "Level Dazzling",
                 number : 3,
                 speed: -2,
                 gameItems: [
